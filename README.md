@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 - Estudiante de programación
 - Titulada en ASIR e IT
+- Actualmente estudiando DAM
+- Entusiasta de la ciberseguridad
