@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Estudiante de programación        
 - Titulada en ASIR e IT             
 - Actualmente estudiando DAM
-- Graphic design is my passion 🖊️
+- Graphic design is my passion 🖊️🐸👌
 - Entusiasta de la ciberseguridad
 
 
