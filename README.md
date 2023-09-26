@@ -1,3 +1,4 @@
+<img align="right" width="700" height="250" alt="Dani Akash" src="https://github.com/MissStormy/MissStormy/assets/111749007/09533da2-d3f7-4e08-8c6e-d79eca213c13"/>
 ## Hi there 👋
 
 <!--
@@ -14,10 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Sobre mi
+### Sobre mi                               
 
-- Estudiante de programación
-- Titulada en ASIR e IT
+- Estudiante de programación        
+- Titulada en ASIR e IT             
 - Actualmente estudiando DAM
-- Entusiasta de la ciberseguridad
 - Graphic design is my passion 🖊️
+- Entusiasta de la ciberseguridad
+
+
+
+
+
+
