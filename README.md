@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - Titulada en ASIR e IT
 - Actualmente estudiando DAM
 - Entusiasta de la ciberseguridad
+- Graphic design is my passion 🖊️
