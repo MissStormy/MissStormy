@@ -1,4 +1,4 @@
-<img align="right" width="700" height="250" alt="Dani Akash" src="https://github.com/MissStormy/MissStormy/assets/111749007/09533da2-d3f7-4e08-8c6e-d79eca213c13"/>
+<img align="right" width="600" height="200" alt="Dani Akash" src="https://github.com/MissStormy/MissStormy/assets/111749007/09533da2-d3f7-4e08-8c6e-d79eca213c13"/>
 ## Hi there 👋
 
 <!--
