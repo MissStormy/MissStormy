@@ -1,5 +1,5 @@
 <img align="right" width="600" height="200" alt="Dani Akash" src="https://github.com/MissStormy/MissStormy/assets/111749007/09533da2-d3f7-4e08-8c6e-d79eca213c13"/>
-## Hi there 👋
+
 
 <!--
 **MissStormy/MissStormy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
